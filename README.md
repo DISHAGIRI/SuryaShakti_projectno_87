@@ -63,7 +63,7 @@ git clone https://github.com/Yashu130/SuryaShaktiSolarMonitor.git
 
 ## 🎯 Problem Statement
 
-Many households using solar panels struggle to monitor energy generation and electricity consumption efficiently. This project provides a simple solution to calculate savings, track energy usage, and encourage sustainable energy practices.
+Many households using solar panels struggle to monitor energy generation and electricity consumption efficiently. This project provides a simple solution to calculate savings, track energy usage, [...]
 
 ---
 
@@ -92,9 +92,3 @@ Energy Score = Generation / (Generation + Consumption) × 100
 - Notification alerts
 
 ---
-
-## 👩‍💻 Developed By
-
-S. Yashashvini
-
-```
